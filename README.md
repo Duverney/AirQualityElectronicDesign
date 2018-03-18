@@ -1,4 +1,4 @@
-# AirQualityElectronicDesign
+# Air Quality Station, Electronic Design
 
 ## Electronic design of the air quality station. First advance
 
